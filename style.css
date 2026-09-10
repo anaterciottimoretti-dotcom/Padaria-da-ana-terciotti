@@ -12,13 +12,13 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.6;
     margin: 0;
-    color: #3B2A1E;             /* marrom escuro (texto) */
+    color: #1e5ba1;             /* marrom escuro (texto) */
     background-color: #FFF8F0;  /* creme (fundo) */
 }
 
 /* ===== Cabeçalho ===== */
 .cabecalho {
-    background-color: #A0521A;  /* âmbar escuro — texto branco tem contraste AA */
+    background-color: #274ac0;  /* âmbar escuro — texto branco tem contraste AA */
     color: #FFFFFF;
     text-align: center;
     padding: 24px 16px;
@@ -52,7 +52,7 @@ main {
 }
 
 blockquote {
-    border-left: 4px solid #A0521A;
+    border-left: 4px solid #3971e9;
     margin: 0 0 16px;
     padding: 8px 16px;
     background-color: #FDEEDC;
@@ -67,10 +67,10 @@ blockquote {
 
 .card {
     flex: 1 1 250px;       /* cresce, encolhe, largura base 250px */
-    border: 1px solid #E0C9A6;
+    border: 1px solid #e9e8e6;
     border-radius: 8px;
     padding: 12px;
-    background-color: #FFFFFF;
+    background-color: #ece7e7;
 }
 
 .card img {
@@ -99,19 +99,19 @@ blockquote {
 
 .tabela-cardapio th,
 .tabela-cardapio td {
-    border: 1px solid #E0C9A6;
+    border: 1px solid #8a9162;
     padding: 10px;
     text-align: left;
 }
 
 .tabela-cardapio thead {
-    background-color: #A0521A;
+    background-color: #2d94cf;
     color: #FFFFFF;
 }
 
 /* ===== Rodapé ===== */
 .rodape {
-    background-color: #3B2A1E;
+    background-color: #4734f3;
     color: #FFFFFF;
     text-align: center;
     padding: 16px;
